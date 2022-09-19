@@ -1,0 +1,3 @@
+crimes*s
+^no
+cat
